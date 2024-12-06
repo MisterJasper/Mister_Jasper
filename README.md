@@ -10,9 +10,13 @@ My journey in tech has led me to develop passion for cybersecurity, now poised t
 ## Skills
 
 . Network traffic analyst 
+
 . Effective in communicating technical information to non-technical stakeholders 
+
 . Collaborative working ability 
+
 . Effective in time management 
+
 . Committed to ongoing learning and professional development
 
 
